@@ -1,0 +1,6 @@
+open3d
+numpy==1.19.1
+scipy
+matplotlib
+laspy
+terrautils
