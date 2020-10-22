@@ -1,2 +1,3 @@
 pdal
 liblas-bin
+libgl1-mesa-glx
