@@ -6,7 +6,7 @@ COPY . /opt
 USER root
 
 RUN apt-get update
-RUN apt install libgl1-mesa-glx
+RUN apt install -y libgl1-mesa-glx
 RUN apt-get install -y python3.6-dev \
                        python3-pip \
                        wget \
